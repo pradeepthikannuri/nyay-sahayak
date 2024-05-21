@@ -89,6 +89,8 @@
 // };
 
 // export default LawyerPage;
+
+
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom'; // Import useNavigate from React Router v6
 import Navbar from '../components/Navbar';
