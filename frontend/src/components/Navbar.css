@@ -1,0 +1,41 @@
+/* Navbar.css: */
+/* Navbar.css */
+.navbar {
+    background-color: #333; /* Dark background color */
+    padding: 10px 20px; /* Padding for the navbar */
+  }
+  
+  .navbar-container {
+    display: flex; /* Make children elements of the navbar container flex items */
+    justify-content: space-between; /* Space evenly between flex items */
+    align-items: center; /* Center align flex items vertically */
+  }
+  
+  .logo {
+    font-size: 1.5rem; /* Increase font size for the logo */
+  }
+  
+  .logo-link {
+    color: #fff; /* Text color for the logo */
+    text-decoration: none; /* Remove default underline */
+  }
+  
+  .nav-links {
+    list-style-type: none; /* Remove bullet points for the list */
+    display: flex; /* Make children elements of the nav links flex items */
+  }
+  
+  .nav-link {
+    margin-left: 20px; /* Add space between each navigation link */
+    color: #fff; /* Text color for navigation links */
+    text-decoration: none; /* Remove default underline */
+  }
+  
+  /* .nav-link:hover {
+    text-decoration: underline; /* Add underline when hovering over navigation links */
+   
+
+.nav-link:hover {
+    text-decoration: underline; /* Add underline when hovering over navigation links */
+}
+

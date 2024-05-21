@@ -1,0 +1,8 @@
+
+.faq-container {
+    background-image: url('faq.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+ } /* Ensure the background covers the entire viewport height */
